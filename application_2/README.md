@@ -1,4 +1,4 @@
-# 🚀 Application-1
+# 🚀 Application-2
 
 <div align="center" style="border: 1px solid #ddd; padding: 10px; margin: 20px 0;">
     <img src="./entryPoint.png">
