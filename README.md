@@ -20,7 +20,7 @@ Welcome to the official repository of the **expressNesters** team! We are a grou
 | Application     | Link                                       |
 |-----------------|--------------------------------------------|
 | Application-1   | [Link](https://github.com/ExpressNesters/Assignment4/tree/main/application_1)                    |
-| Application-2   | [Link](https://github.com/HarshithAkkapelli/test/tree/main/application_2)                    |
+| Application-2   | [Link](https://github.com/ExpressNesters/Assignment4/tree/main/application_2)                    |
 
 ---
 
