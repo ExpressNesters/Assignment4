@@ -13,7 +13,7 @@ Welcome to the official repository of the **expressNesters** team! We are a grou
 
 | Writeup                                 |
 |-----------------------------------------|
-| [Link]([https://github.com/HarshithAkkapelli/test/blob/main/Writeup.pdf](https://github.com/ExpressNesters/Assignment4/blob/main/Writeup.pdf))       |
+| [Link](https://github.com/ExpressNesters/Assignment4/blob/main/Writeup.pdf)       |
 
 ## 📱 Ad Applications 📱
 
