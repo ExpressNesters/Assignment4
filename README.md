@@ -15,7 +15,7 @@ Welcome to the official repository of the **expressNesters** team! We are a grou
 |-----------------------------------------|
 | [Link](https://github.com/ExpressNesters/Assignment4/blob/main/Writeup.pdf)       |
 
-## 📱 Ad Applications 📱
+## 📱 Applications Links📱
 
 | Application     | Link                                       |
 |-----------------|--------------------------------------------|
